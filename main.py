@@ -2,5 +2,4 @@
 Новый файл
 """
 
-if __name__ == '__main__':
-    print('Hello')
+"Kerim destroyed code"
